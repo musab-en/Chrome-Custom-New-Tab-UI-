@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Material You வடிவமைப்பால் ஈர்க்கப்பட்ட அழகான, தனிப்பயனாக்கக்கூடிய புதிய தாவல் பக்கம்.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "அமைப்புகள்",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "புத்தகக்குறிகள்",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "காலை வணக்கம்",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "மதிய வணக்கம்",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "மாலை வணக்கம்",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "பணிகள்",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "வானிலை",
+    "description": "weather"
+  },
+  "search": {
+    "message": "தேடு",
+    "description": "search"
+  },
+  "clock": {
+    "message": "கடிகாரம்",
+    "description": "clock"
+  },
+  "language": {
+    "message": "மொழி",
+    "description": "language"
+  },
+  "backup": {
+    "message": "காப்புப்பிரதி",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "மீட்டமை",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "அனைத்தையும் மீட்டமை",
+    "description": "resetAll"
+  }
+}

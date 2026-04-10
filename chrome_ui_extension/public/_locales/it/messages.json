@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Una bella pagina personalizzabile per nuova scheda ispirata a Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Impostazioni",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Segnalibri",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Buongiorno",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Buon pomeriggio",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Buonasera",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Attività",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Meteo",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Cerca",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Orologio",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Lingua",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Backup",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Ripristina",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Ripristina tutto",
+    "description": "resetAll"
+  }
+}

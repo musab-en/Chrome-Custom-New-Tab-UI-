@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Material You ডিজাইন দ্বারা অনুপ্রাণিত একটি সুন্দর, কাস্টমাইজযোগ্য নতুন ট্যাব পৃষ্ঠা।",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "সেটিংস",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "বুকমার্ক",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "সুপ্রভাত",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "শুভ অপরাহ্ন",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "শুভ সন্ধ্যা",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "কাজ",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "আবহাওয়া",
+    "description": "weather"
+  },
+  "search": {
+    "message": "অনুসন্ধান",
+    "description": "search"
+  },
+  "clock": {
+    "message": "ঘড়ি",
+    "description": "clock"
+  },
+  "language": {
+    "message": "ভাষা",
+    "description": "language"
+  },
+  "backup": {
+    "message": "ব্যাকআপ",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "পুনরুদ্ধার",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "সব রিসেট",
+    "description": "resetAll"
+  }
+}

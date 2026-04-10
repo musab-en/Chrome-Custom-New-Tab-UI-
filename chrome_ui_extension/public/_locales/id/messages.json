@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Halaman tab baru yang indah dan dapat disesuaikan terinspirasi dari Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Pengaturan",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Bookmark",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Selamat pagi",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Selamat siang",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Selamat malam",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Tugas",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Cuaca",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Cari",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Jam",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Bahasa",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Cadangkan",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Pulihkan",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Atur ulang semua",
+    "description": "resetAll"
+  }
+}

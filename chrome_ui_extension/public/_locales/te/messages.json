@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Material You డిజైన్ ద్వారా ప్రేరేపించబడిన అందమైన, అనుకూలీకరించగల కొత్త ట్యాబ్ పేజీ.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "సెట్టింగ్‌లు",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "బుక్‌మార్క్‌లు",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "శుభోదయం",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "శుభ మధ్యాహ్నం",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "శుభ సాయంత్రం",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "పనులు",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "వాతావరణం",
+    "description": "weather"
+  },
+  "search": {
+    "message": "వెతకండి",
+    "description": "search"
+  },
+  "clock": {
+    "message": "గడియారం",
+    "description": "clock"
+  },
+  "language": {
+    "message": "భాష",
+    "description": "language"
+  },
+  "backup": {
+    "message": "బ్యాకప్",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "పునరుద్ధరించు",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "అన్నీ రీసెట్",
+    "description": "resetAll"
+  }
+}

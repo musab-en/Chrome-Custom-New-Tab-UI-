@@ -1,0 +1,163 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "A beautiful, customizable New Tab page with Material You design. Made by musab-en.",
+    "description": "Extension description"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "bookmarks": {
+    "message": "Bookmarks"
+  },
+  "searchPlaceholder": {
+    "message": "Search the web..."
+  },
+  "goodMorning": {
+    "message": "Good morning"
+  },
+  "goodAfternoon": {
+    "message": "Good afternoon"
+  },
+  "goodEvening": {
+    "message": "Good evening"
+  },
+  "tasks": {
+    "message": "Tasks"
+  },
+  "addTask": {
+    "message": "Add a task..."
+  },
+  "remaining": {
+    "message": "remaining"
+  },
+  "aiTools": {
+    "message": "AI Tools"
+  },
+  "googleApps": {
+    "message": "Google Apps"
+  },
+  "weather": {
+    "message": "Weather"
+  },
+  "appearance": {
+    "message": "Appearance"
+  },
+  "theme": {
+    "message": "Theme"
+  },
+  "light": {
+    "message": "Light"
+  },
+  "dark": {
+    "message": "Dark"
+  },
+  "system": {
+    "message": "System"
+  },
+  "accentColor": {
+    "message": "Accent Color"
+  },
+  "glassmorphism": {
+    "message": "Glassmorphism"
+  },
+  "wallpaper": {
+    "message": "Wallpaper"
+  },
+  "upload": {
+    "message": "Upload"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "clock": {
+    "message": "Clock"
+  },
+  "digital": {
+    "message": "Digital"
+  },
+  "analog": {
+    "message": "Analog"
+  },
+  "search": {
+    "message": "Search"
+  },
+  "defaultEngine": {
+    "message": "Default Engine"
+  },
+  "unit": {
+    "message": "Unit"
+  },
+  "apiKey": {
+    "message": "API Key"
+  },
+  "personalization": {
+    "message": "Personalization"
+  },
+  "name": {
+    "message": "Name"
+  },
+  "greeting": {
+    "message": "Greeting"
+  },
+  "widgets": {
+    "message": "Widgets"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "data": {
+    "message": "Data"
+  },
+  "backup": {
+    "message": "Backup"
+  },
+  "restore": {
+    "message": "Restore"
+  },
+  "resetAll": {
+    "message": "Reset All"
+  },
+  "autoClearMidnight": {
+    "message": "Auto-clear at midnight"
+  },
+  "searchBookmarks": {
+    "message": "Search bookmarks..."
+  },
+  "noBookmarks": {
+    "message": "No bookmarks found"
+  },
+  "noTasks": {
+    "message": "No tasks yet. Add one above!"
+  },
+  "feels": {
+    "message": "Feels"
+  },
+  "humidity": {
+    "message": "Humidity"
+  },
+  "min": {
+    "message": "Min"
+  },
+  "max": {
+    "message": "Max"
+  },
+  "voiceSearch": {
+    "message": "Voice search"
+  },
+  "deleteBookmark": {
+    "message": "Delete this bookmark?"
+  },
+  "resetConfirm": {
+    "message": "Reset all settings to default? This cannot be undone."
+  },
+  "settingsRestored": {
+    "message": "Settings restored successfully!"
+  },
+  "invalidFile": {
+    "message": "Invalid settings file."
+  }
+}

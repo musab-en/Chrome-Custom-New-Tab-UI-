@@ -1,0 +1,32 @@
+.quote-widget {
+  text-align: center;
+  padding: 20px 32px;
+  max-width: 600px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.quote-icon {
+  font-size: 64px;
+  font-family: Georgia, serif;
+  color: var(--md-sys-color-primary);
+  opacity: 0.25;
+  line-height: 0.5;
+  margin-bottom: 8px;
+}
+
+.quote-text {
+  font-size: 17px;
+  font-style: italic;
+  color: var(--md-sys-color-on-surface);
+  line-height: 1.6;
+  margin: 0 0 8px 0;
+  font-weight: 300;
+}
+
+.quote-author {
+  font-size: 13px;
+  color: var(--md-sys-color-on-surface-variant);
+  margin: 0;
+  font-weight: 500;
+}

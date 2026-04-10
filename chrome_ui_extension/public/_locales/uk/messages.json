@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Красива, настроювана сторінка нової вкладки в стилі Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Налаштування",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Закладки",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Доброго ранку",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Доброго дня",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Доброго вечора",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Завдання",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Погода",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Пошук",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Годинник",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Мова",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Резервна копія",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Відновити",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Скинути все",
+    "description": "resetAll"
+  }
+}

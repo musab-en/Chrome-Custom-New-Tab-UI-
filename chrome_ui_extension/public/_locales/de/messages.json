@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Eine schöne, anpassbare Neuer-Tab-Seite inspiriert von Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Einstellungen",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Lesezeichen",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Guten Morgen",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Guten Tag",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Guten Abend",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Aufgaben",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Wetter",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Suchen",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Uhr",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Sprache",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Sicherung",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Wiederherstellen",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Alles zurücksetzen",
+    "description": "resetAll"
+  }
+}

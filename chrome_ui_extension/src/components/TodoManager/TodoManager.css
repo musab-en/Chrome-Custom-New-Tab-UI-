@@ -1,0 +1,209 @@
+.todo-widget {
+  padding: 16px 20px;
+  border-radius: 24px;
+  background: var(--md-sys-color-surface-container);
+  max-height: 400px;
+  display: flex;
+  flex-direction: column;
+  transition: background 0.3s, backdrop-filter 0.3s;
+  box-shadow: var(--glass-shadow);
+}
+
+[data-glass="true"] .todo-widget {
+  background: rgba(var(--md-sys-color-surface-container-rgb), var(--glass-opacity));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+[data-liquid="true"] .todo-widget {
+  box-shadow: var(--glass-shadow),
+    0 0 40px -10px rgba(var(--liquid-glow), 0.12),
+    inset 0 1px 0 rgba(255,255,255,0.12);
+}
+
+.todo-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.todo-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--md-sys-color-on-surface-variant);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.todo-count {
+  font-size: 12px;
+  color: var(--md-sys-color-primary);
+  font-weight: 500;
+}
+
+.todo-input-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.todo-input {
+  flex: 1;
+  border: none;
+  background: var(--md-sys-color-surface-container-highest);
+  border-radius: 14px;
+  padding: 10px 16px;
+  font-size: 14px;
+  color: var(--md-sys-color-on-surface);
+  outline: none;
+  font-family: 'Inter', sans-serif;
+  transition: box-shadow 0.2s;
+}
+
+[data-glass="true"] .todo-input {
+  background: rgba(var(--md-sys-color-surface-container-rgb), 0.5);
+}
+
+.todo-input:focus {
+  box-shadow: 0 0 0 2px var(--md-sys-color-primary);
+}
+
+.todo-input::placeholder {
+  color: var(--md-sys-color-on-surface-variant);
+  opacity: 0.6;
+}
+
+.todo-add-btn {
+  width: 40px;
+  height: 40px;
+  border: none;
+  border-radius: 14px;
+  background: var(--md-sys-color-primary);
+  color: var(--md-sys-color-on-primary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+  flex-shrink: 0;
+}
+
+.todo-add-btn:hover:not(:disabled) {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.todo-add-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.todo-list {
+  overflow-y: auto;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.todo-list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.todo-list::-webkit-scrollbar-thumb {
+  background: var(--md-sys-color-outline-variant);
+  border-radius: 4px;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 8px;
+  border-radius: 12px;
+  transition: background 0.15s;
+  overflow: hidden;
+}
+
+.todo-item:hover {
+  background: var(--md-sys-color-surface-container-high);
+}
+
+[data-glass="true"] .todo-item:hover {
+  background: rgba(var(--md-sys-color-surface-container-rgb), 0.5);
+}
+
+.todo-item.pinned {
+  border-left: 3px solid var(--md-sys-color-primary);
+}
+
+.todo-check {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 2px;
+  display: flex;
+  flex-shrink: 0;
+}
+
+.todo-text {
+  flex: 1;
+  font-size: 14px;
+  color: var(--md-sys-color-on-surface);
+  line-height: 1.4;
+}
+
+.todo-item.completed .todo-text {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+.todo-actions {
+  display: flex;
+  gap: 2px;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.todo-item:hover .todo-actions {
+  opacity: 1;
+}
+
+.todo-pin-btn, .todo-delete-btn {
+  width: 28px;
+  height: 28px;
+  border: none;
+  background: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--md-sys-color-on-surface-variant);
+  transition: all 0.15s;
+}
+
+.todo-pin-btn:hover {
+  background: var(--md-sys-color-primary-container);
+  color: var(--md-sys-color-primary);
+}
+
+.todo-pin-btn.active {
+  color: var(--md-sys-color-primary);
+}
+
+.todo-delete-btn:hover {
+  background: var(--md-sys-color-error-container);
+  color: var(--md-sys-color-error);
+}
+
+.todo-empty {
+  text-align: center;
+  color: var(--md-sys-color-on-surface-variant);
+  font-size: 13px;
+  padding: 24px 0;
+  opacity: 0.6;
+}

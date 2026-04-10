@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Piękna, konfigurowalna strona nowej karty inspirowana Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Ustawienia",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Zakładki",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Dzień dobry",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Dzień dobry",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Dobry wieczór",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Zadania",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Pogoda",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Szukaj",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Zegar",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Język",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Kopia zapasowa",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Przywróć",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Zresetuj wszystko",
+    "description": "resetAll"
+  }
+}

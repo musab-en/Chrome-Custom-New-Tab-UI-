@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Krásná, přizpůsobitelná stránka nové karty inspirovaná Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Nastavení",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Záložky",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Dobré ráno",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Dobré odpoledne",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Dobrý večer",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Úkoly",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Počasí",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Hledat",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Hodiny",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Jazyk",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Záloha",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Obnovit",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Vše resetovat",
+    "description": "resetAll"
+  }
+}

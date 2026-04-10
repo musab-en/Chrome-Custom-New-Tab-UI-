@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Trang tab mới đẹp, tùy chỉnh lấy cảm hứng từ Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Cài đặt",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Dấu trang",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Chào buổi sáng",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Chào buổi chiều",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Chào buổi tối",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Nhiệm vụ",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Thời tiết",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Tìm kiếm",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Đồng hồ",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Ngôn ngữ",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Sao lưu",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Khôi phục",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Đặt lại tất cả",
+    "description": "resetAll"
+  }
+}

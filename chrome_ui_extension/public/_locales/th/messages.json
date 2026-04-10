@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "หน้าแท็บใหม่ที่สวยงามและปรับแต่งได้ ได้รับแรงบันดาลใจจาก Material You",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "การตั้งค่า",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "บุ๊กมาร์ก",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "สวัสดีตอนเช้า",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "สวัสดีตอนบ่าย",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "สวัสดีตอนเย็น",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "งาน",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "สภาพอากาศ",
+    "description": "weather"
+  },
+  "search": {
+    "message": "ค้นหา",
+    "description": "search"
+  },
+  "clock": {
+    "message": "นาฬิกา",
+    "description": "clock"
+  },
+  "language": {
+    "message": "ภาษา",
+    "description": "language"
+  },
+  "backup": {
+    "message": "สำรองข้อมูล",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "กู้คืน",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "รีเซ็ตทั้งหมด",
+    "description": "resetAll"
+  }
+}

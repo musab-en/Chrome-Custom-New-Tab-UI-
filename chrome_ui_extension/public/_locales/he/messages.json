@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "דף כרטיסייה חדשה יפה וניתן להתאמה אישית בהשראת Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "הגדרות",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "סימניות",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "בוקר טוב",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "צהריים טובים",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "ערב טוב",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "משימות",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "מזג אוויר",
+    "description": "weather"
+  },
+  "search": {
+    "message": "חיפוש",
+    "description": "search"
+  },
+  "clock": {
+    "message": "שעון",
+    "description": "clock"
+  },
+  "language": {
+    "message": "שפה",
+    "description": "language"
+  },
+  "backup": {
+    "message": "גיבוי",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "שחזור",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "אפס הכל",
+    "description": "resetAll"
+  }
+}

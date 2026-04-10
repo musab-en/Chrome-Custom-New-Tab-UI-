@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "一個受 Material You 設計啟發的美觀、可自訂的新分頁。",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "設定",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "書籤",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "早安",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "午安",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "晚安",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "任務",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "天氣",
+    "description": "weather"
+  },
+  "search": {
+    "message": "搜尋",
+    "description": "search"
+  },
+  "clock": {
+    "message": "時鐘",
+    "description": "clock"
+  },
+  "language": {
+    "message": "語言",
+    "description": "language"
+  },
+  "backup": {
+    "message": "備份",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "還原",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "全部重設",
+    "description": "resetAll"
+  }
+}

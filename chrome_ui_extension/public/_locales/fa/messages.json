@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "صفحه تب جدید زیبا و قابل تنظیم الهام گرفته از Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "تنظیمات",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "نشانک‌ها",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "صبح بخیر",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "بعدازظهر بخیر",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "عصر بخیر",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "وظایف",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "آب و هوا",
+    "description": "weather"
+  },
+  "search": {
+    "message": "جستجو",
+    "description": "search"
+  },
+  "clock": {
+    "message": "ساعت",
+    "description": "clock"
+  },
+  "language": {
+    "message": "زبان",
+    "description": "language"
+  },
+  "backup": {
+    "message": "پشتیبان‌گیری",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "بازیابی",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "بازنشانی همه",
+    "description": "resetAll"
+  }
+}

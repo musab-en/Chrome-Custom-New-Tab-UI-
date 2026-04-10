@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Μια όμορφη, προσαρμόσιμη σελίδα νέας καρτέλας εμπνευσμένη από το Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Ρυθμίσεις",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Σελιδοδείκτες",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Καλημέρα",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Καλό απόγευμα",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Καλησπέρα",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Εργασίες",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Καιρός",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Αναζήτηση",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Ρολόι",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Γλώσσα",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Αντίγραφο ασφαλείας",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Επαναφορά",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Επαναφορά όλων",
+    "description": "resetAll"
+  }
+}

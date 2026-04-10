@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "صفحة تبويب جديدة جميلة وقابلة للتخصيص مستوحاة من تصميم ماتيريال يو.",
+    "description": "Extension description"
+  },
+  "settings": {
+    "message": "الإعدادات"
+  },
+  "bookmarks": {
+    "message": "الإشارات المرجعية"
+  },
+  "searchPlaceholder": {
+    "message": "ابحث في الويب..."
+  },
+  "goodMorning": {
+    "message": "صباح الخير"
+  },
+  "goodAfternoon": {
+    "message": "مساء الخير"
+  },
+  "goodEvening": {
+    "message": "مساء الخير"
+  },
+  "tasks": {
+    "message": "المهام"
+  },
+  "addTask": {
+    "message": "أضف مهمة..."
+  },
+  "remaining": {
+    "message": "متبقية"
+  },
+  "aiTools": {
+    "message": "أدوات الذكاء الاصطناعي"
+  },
+  "googleApps": {
+    "message": "تطبيقات جوجل"
+  },
+  "weather": {
+    "message": "الطقس"
+  },
+  "appearance": {
+    "message": "المظهر"
+  },
+  "theme": {
+    "message": "السمة"
+  },
+  "light": {
+    "message": "فاتح"
+  },
+  "dark": {
+    "message": "داكن"
+  },
+  "system": {
+    "message": "النظام"
+  },
+  "accentColor": {
+    "message": "لون التمييز"
+  },
+  "glassmorphism": {
+    "message": "تأثير الزجاج"
+  },
+  "wallpaper": {
+    "message": "خلفية"
+  },
+  "upload": {
+    "message": "رفع"
+  },
+  "remove": {
+    "message": "إزالة"
+  },
+  "clock": {
+    "message": "الساعة"
+  },
+  "digital": {
+    "message": "رقمية"
+  },
+  "analog": {
+    "message": "تناظرية"
+  },
+  "search": {
+    "message": "بحث"
+  },
+  "defaultEngine": {
+    "message": "المحرك الافتراضي"
+  },
+  "unit": {
+    "message": "الوحدة"
+  },
+  "apiKey": {
+    "message": "مفتاح API"
+  },
+  "personalization": {
+    "message": "التخصيص"
+  },
+  "name": {
+    "message": "الاسم"
+  },
+  "greeting": {
+    "message": "التحية"
+  },
+  "widgets": {
+    "message": "الأدوات"
+  },
+  "language": {
+    "message": "اللغة"
+  },
+  "data": {
+    "message": "البيانات"
+  },
+  "backup": {
+    "message": "نسخ احتياطي"
+  },
+  "restore": {
+    "message": "استعادة"
+  },
+  "resetAll": {
+    "message": "إعادة تعيين الكل"
+  },
+  "autoClearMidnight": {
+    "message": "مسح تلقائي عند منتصف الليل"
+  }
+}

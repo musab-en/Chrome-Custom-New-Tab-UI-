@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Material You デザインにインスパイアされた美しくカスタマイズ可能な新しいタブページ。",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "設定",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "ブックマーク",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "おはようございます",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "こんにちは",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "こんばんは",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "タスク",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "天気",
+    "description": "weather"
+  },
+  "search": {
+    "message": "検索",
+    "description": "search"
+  },
+  "clock": {
+    "message": "時計",
+    "description": "clock"
+  },
+  "language": {
+    "message": "言語",
+    "description": "language"
+  },
+  "backup": {
+    "message": "バックアップ",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "復元",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "すべてリセット",
+    "description": "resetAll"
+  }
+}

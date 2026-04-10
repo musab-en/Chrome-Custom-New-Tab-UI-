@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "O pagină de filă nouă frumoasă, personalizabilă, inspirată de Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Setări",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Marcaje",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Bună dimineața",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Bună ziua",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Bună seara",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Sarcini",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Vremea",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Căutare",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Ceas",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Limbă",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Backup",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Restaurare",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Resetare totală",
+    "description": "resetAll"
+  }
+}

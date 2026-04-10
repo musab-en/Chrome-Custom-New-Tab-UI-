@@ -1,0 +1,127 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "Extension name"
+  },
+  "extensionDescription": {
+    "message": "میٹیریل یو ڈیزائن سے متاثر ایک خوبصورت، حسب ضرورت نیا ٹیب صفحہ۔",
+    "description": "Extension description"
+  },
+  "settings": {
+    "message": "ترتیبات"
+  },
+  "bookmarks": {
+    "message": "بُک مارکس"
+  },
+  "searchPlaceholder": {
+    "message": "ویب تلاش کریں..."
+  },
+  "goodMorning": {
+    "message": "صبح بخیر"
+  },
+  "goodAfternoon": {
+    "message": "دوپہر بخیر"
+  },
+  "goodEvening": {
+    "message": "شام بخیر"
+  },
+  "tasks": {
+    "message": "کام"
+  },
+  "addTask": {
+    "message": "کام شامل کریں..."
+  },
+  "remaining": {
+    "message": "باقی"
+  },
+  "aiTools": {
+    "message": "اے آئی ٹولز"
+  },
+  "googleApps": {
+    "message": "گوگل ایپس"
+  },
+  "weather": {
+    "message": "موسم"
+  },
+  "appearance": {
+    "message": "ظاہری شکل"
+  },
+  "theme": {
+    "message": "تھیم"
+  },
+  "light": {
+    "message": "روشن"
+  },
+  "dark": {
+    "message": "تاریک"
+  },
+  "system": {
+    "message": "سسٹم"
+  },
+  "accentColor": {
+    "message": "نمایاں رنگ"
+  },
+  "glassmorphism": {
+    "message": "شیشے کا اثر"
+  },
+  "wallpaper": {
+    "message": "وال پیپر"
+  },
+  "upload": {
+    "message": "اپ لوڈ"
+  },
+  "remove": {
+    "message": "ہٹائیں"
+  },
+  "clock": {
+    "message": "گھڑی"
+  },
+  "digital": {
+    "message": "ڈیجیٹل"
+  },
+  "analog": {
+    "message": "اینالاگ"
+  },
+  "search": {
+    "message": "تلاش"
+  },
+  "defaultEngine": {
+    "message": "ڈیفالٹ انجن"
+  },
+  "unit": {
+    "message": "اکائی"
+  },
+  "apiKey": {
+    "message": "اے پی آئی کلید"
+  },
+  "personalization": {
+    "message": "ذاتی بنانا"
+  },
+  "name": {
+    "message": "نام"
+  },
+  "greeting": {
+    "message": "سلام"
+  },
+  "widgets": {
+    "message": "ویجیٹس"
+  },
+  "language": {
+    "message": "زبان"
+  },
+  "data": {
+    "message": "ڈیٹا"
+  },
+  "backup": {
+    "message": "بیک اپ"
+  },
+  "restore": {
+    "message": "بحال کریں"
+  },
+  "resetAll": {
+    "message": "سب ری سیٹ کریں"
+  },
+  "autoClearMidnight": {
+    "message": "آدھی رات کو خود کار صفائی"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Material You tasarımından ilham alan güzel, özelleştirilebilir bir yeni sekme sayfası.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Ayarlar",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Yer İmleri",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Günaydın",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "İyi günler",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "İyi akşamlar",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Görevler",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Hava",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Ara",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Saat",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Dil",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Yedekle",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Geri Yükle",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Tümünü Sıfırla",
+    "description": "resetAll"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Material You 디자인에서 영감을 받은 아름다운 맞춤형 새 탭 페이지.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "설정",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "북마크",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "좋은 아침",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "좋은 오후",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "좋은 저녁",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "할 일",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "날씨",
+    "description": "weather"
+  },
+  "search": {
+    "message": "검색",
+    "description": "search"
+  },
+  "clock": {
+    "message": "시계",
+    "description": "clock"
+  },
+  "language": {
+    "message": "언어",
+    "description": "language"
+  },
+  "backup": {
+    "message": "백업",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "복원",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "모두 초기화",
+    "description": "resetAll"
+  }
+}

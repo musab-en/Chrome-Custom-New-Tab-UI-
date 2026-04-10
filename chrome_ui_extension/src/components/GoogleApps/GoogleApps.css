@@ -1,0 +1,75 @@
+.google-apps {
+  padding: 16px 20px;
+  border-radius: 24px;
+  background: var(--md-sys-color-surface-container);
+  transition: background 0.3s, backdrop-filter 0.3s;
+  box-shadow: var(--glass-shadow);
+}
+
+[data-glass="true"] .google-apps {
+  background: rgba(var(--md-sys-color-surface-container-rgb), var(--glass-opacity));
+  backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(var(--glass-saturate));
+  border: var(--glass-border);
+  box-shadow: var(--glass-shadow);
+}
+
+[data-liquid="true"] .google-apps {
+  box-shadow: var(--glass-shadow),
+    0 0 40px -10px rgba(var(--liquid-glow), 0.12),
+    inset 0 1px 0 rgba(255,255,255,0.12);
+}
+
+.google-apps-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--md-sys-color-on-surface-variant);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+  padding-left: 4px;
+}
+
+.google-apps-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.google-app-tile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 4px;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: background 0.2s;
+  cursor: pointer;
+}
+
+.google-app-tile:hover {
+  background: var(--md-sys-color-surface-container-highest);
+}
+
+[data-glass="true"] .google-app-tile:hover {
+  background: rgba(var(--md-sys-color-surface-container-rgb), 0.6);
+}
+
+.google-app-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+}
+
+.google-app-name {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--md-sys-color-on-surface);
+  text-align: center;
+  line-height: 1.2;
+}

@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "Een mooie, aanpasbare nieuw-tabbladpagina geïnspireerd door Material You.",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "Instellingen",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "Bladwijzers",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "Goedemorgen",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "Goedemiddag",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "Goedenavond",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "Taken",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "Weer",
+    "description": "weather"
+  },
+  "search": {
+    "message": "Zoeken",
+    "description": "search"
+  },
+  "clock": {
+    "message": "Klok",
+    "description": "clock"
+  },
+  "language": {
+    "message": "Taal",
+    "description": "language"
+  },
+  "backup": {
+    "message": "Back-up",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "Herstellen",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "Alles resetten",
+    "description": "resetAll"
+  }
+}

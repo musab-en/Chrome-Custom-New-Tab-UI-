@@ -1,0 +1,62 @@
+{
+  "extensionName": {
+    "message": "Easenmia",
+    "description": "extensionName"
+  },
+  "extensionDescription": {
+    "message": "मटेरियल यू डिज़ाइन से प्रेरित एक सुंदर, अनुकूलन योग्य न्यू टैब पेज।",
+    "description": "extensionDescription"
+  },
+  "settings": {
+    "message": "सेटिंग्स",
+    "description": "settings"
+  },
+  "bookmarks": {
+    "message": "बुकमार्क",
+    "description": "bookmarks"
+  },
+  "goodMorning": {
+    "message": "सुप्रभात",
+    "description": "goodMorning"
+  },
+  "goodAfternoon": {
+    "message": "नमस्ते",
+    "description": "goodAfternoon"
+  },
+  "goodEvening": {
+    "message": "शुभ संध्या",
+    "description": "goodEvening"
+  },
+  "tasks": {
+    "message": "कार्य",
+    "description": "tasks"
+  },
+  "weather": {
+    "message": "मौसम",
+    "description": "weather"
+  },
+  "search": {
+    "message": "खोज",
+    "description": "search"
+  },
+  "clock": {
+    "message": "घड़ी",
+    "description": "clock"
+  },
+  "language": {
+    "message": "भाषा",
+    "description": "language"
+  },
+  "backup": {
+    "message": "बैकअप",
+    "description": "backup"
+  },
+  "restore": {
+    "message": "पुनर्स्थापित",
+    "description": "restore"
+  },
+  "resetAll": {
+    "message": "सब रीसेट करें",
+    "description": "resetAll"
+  }
+}
